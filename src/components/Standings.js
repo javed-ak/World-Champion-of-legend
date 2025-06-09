@@ -202,7 +202,7 @@ const Standings = () => {
         },
         {
             name: 'SACH',
-            logo: '/assets/images/team-logos/south-africa-logo.webp',
+            logo: '/assets/images/team-logos/south-africa-logo.png',
             shortName: 'SACH',
             stats: { P: 5, W: 2, L: 3, NR: 0, PT: 4, NRR: '-1.340' },
             matches: [

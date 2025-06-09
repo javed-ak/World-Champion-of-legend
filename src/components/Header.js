@@ -32,7 +32,7 @@ const Header = () => {
                         <li><Link href="/teams" legacyBehavior><a className={router.pathname === "/teams" ? "active" : router.route.includes("/teams") ? "active" : ""}>Teams</a></Link></li>
                         <li><Link href="/#standings" legacyBehavior><a>Standings</a></Link></li>
                         <li><Link href="/tickets" legacyBehavior><a className={router.pathname === "/tickets" ? "active" : ""}>Tickets</a></Link></li>
-                        <li><Link href="/Venues" legacyBehavior><a className={router.pathname === "/Venues" ? "active" : ""}>Venues</a></Link></li>
+                        <li><Link href="/Venues" legacyBehavior><a className={router.pathname === "/venues" ? "active" : ""}>Venues</a></Link></li>
                     </ul>
                     <Link href="/" legacyBehavior><a><Image src="/assets/images/wcl-logo.webp" width={70} height={70} /></a></Link>
                     <ul className="nav-menu-right">
@@ -60,7 +60,7 @@ const Header = () => {
                                     <li><Link href="/videos" legacyBehavior><a className={router.pathname === "/videos" ? "active" : ""}>Videos</a></Link></li>
                                     <li><Link href="/gallery" legacyBehavior><a className={router.pathname === "/gallery" ? "active" : ""}>Gallery</a></Link></li>
                                     <li><Link href="/teams" legacyBehavior><a className={router.pathname === "/teams" ? "active" : router.route.includes("/teams") ? "active" : ""}>Teams</a></Link></li>
-                                    <li><Link href="/Venues" legacyBehavior><a className={router.pathname === "/Venues" ? "active" : ""}>Venues</a></Link></li>
+                                    <li><Link href="/Venues" legacyBehavior><a className={router.pathname === "/venues" ? "active" : ""}>Venues</a></Link></li>
                                     <li onClick={() => { setMobileMenu(false) }}><Link href="/#standings" legacyBehavior><a>Standings</a></Link></li>
                                     <li><Link href="https://youtube.com/@wclcricket?si=sleF4WtjnMLN8UAk" legacyBehavior><a className={router.pathname === "/Youtube" ? "active" : ""}>Youtube</a></Link></li>
                                     <li><Link href="/tickets" legacyBehavior><a className={router.pathname === "/tickets" ? "active" : ""}>Tickets</a></Link></li>

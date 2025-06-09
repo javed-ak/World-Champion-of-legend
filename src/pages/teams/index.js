@@ -23,7 +23,7 @@ const Teams = ({ canonical_link, meta_title, meta_description, meta_keywords, pa
         },
         {
             team: "South Africa Champions",
-            logo: "/assets/images/team-logos/south-africa-logo.jpeg",
+            logo: "/assets/images/team-logos/south-africa-logo.png",
             href: "/teams/south-africa-champions"
         },
         {
