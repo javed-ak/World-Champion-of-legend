@@ -89,7 +89,7 @@ const PlayerCard = ({ name, jersey, type, metric1, metric2, image, about }) => {
 
         @media screen and (max-width: 1023px) {
           .col-right h2 {
-            font-size: 200px;
+            font-size: 80px;
             line-height: 13rem;
           }
         }
@@ -104,7 +104,7 @@ const PlayerCard = ({ name, jersey, type, metric1, metric2, image, about }) => {
 
         @media screen and (max-width: 1023px) {
           .player img {
-            width: 300px;
+            width: 200px;
           }
         }
 
