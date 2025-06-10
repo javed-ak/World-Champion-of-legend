@@ -23,10 +23,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/teams/australia-champions": [
+    "/teams/pakistan-champions": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/teams/australia-champions.js"
+      "static/chunks/pages/teams/pakistan-champions.js"
     ],
     "/teams/west-indies-champions": [
       "static/chunks/webpack.js",

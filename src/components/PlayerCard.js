@@ -104,7 +104,7 @@ const PlayerCard = ({ name, jersey, type, metric1, metric2, image, about }) => {
 
         @media screen and (max-width: 1023px) {
           .player img {
-            width: 200px;
+            width: 220px;
           }
         }
 
