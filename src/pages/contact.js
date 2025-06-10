@@ -2,7 +2,7 @@ import Footer from '@/components/Footer'
 import Header from '@/components/Header'
 import Head from 'next/head'
 import React from 'react'
-import { Home } from './home'
+import { Home } from './Home'
 
 
 const Contact = ({ canonical_link, meta_title, meta_description, meta_keywords }) => {
