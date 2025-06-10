@@ -87,7 +87,7 @@ const PlayerCard = ({ name, jersey, type, metric1, metric2, image, about }) => {
           text-transform: uppercase;
         }
 
-        @media screen and (max-width: 1023px) {
+        @media screen and (max-width: 768px) {
           .col-right h2 {
             font-size: 80px;
             line-height: 13rem;
@@ -102,7 +102,7 @@ const PlayerCard = ({ name, jersey, type, metric1, metric2, image, about }) => {
           transform: translateX(-50%);
         }
 
-        @media screen and (max-width: 1023px) {
+        @media screen and (max-width: 768px) {
           .player img {
             width: 220px;
           }

@@ -20,11 +20,6 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/teams/pakistan-champions": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/teams/pakistan-champions.js"
-    ],
     "/teams/west-indies-champions": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
