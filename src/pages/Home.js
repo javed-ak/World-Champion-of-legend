@@ -1,9 +1,7 @@
-import React from "react";
-
 export default function Home() {
   return (
     <div>
-      <h1>Welcome to the Homepage</h1>
+      <h1>Welcome to the World Championship Legends</h1>
     </div>
   );
 }
