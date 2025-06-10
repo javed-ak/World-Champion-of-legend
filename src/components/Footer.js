@@ -179,7 +179,7 @@ const Footer = ({ pagecontent }) => {
                 </li>
                 <li>
                   <Link href="/teams/pakistan-champions" legacyBehavior>
-                    <a>pakistan-champions</a>
+                    <a>Pakistan Champions</a>
                   </Link>
                 </li>
               </ul>

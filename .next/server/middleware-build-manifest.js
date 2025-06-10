@@ -10,11 +10,6 @@ self.__BUILD_MANIFEST = {
   "rootMainFiles": [],
   "rootMainFilesTree": {},
   "pages": {
-    "/Venues": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Venues.js"
-    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,15 +20,15 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/teams/australia-champions": [
+    "/contact": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/teams/australia-champions.js"
+      "static/chunks/pages/contact.js"
     ],
-    "/teams/west-indies-champions": [
+    "/teams/pakistan-champions": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/teams/west-indies-champions.js"
+      "static/chunks/pages/teams/pakistan-champions.js"
     ]
   },
   "ampFirstPages": []

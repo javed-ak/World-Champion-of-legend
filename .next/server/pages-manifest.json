@@ -3,7 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/teams/south-africa-champions": "pages/teams/south-africa-champions.js",
-  "/Venues": "pages/Venues.js",
-  "/teams/australia-champions": "pages/teams/australia-champions.js",
-  "/teams/west-indies-champions": "pages/teams/west-indies-champions.js"
+  "/teams/pakistan-champions": "pages/teams/pakistan-champions.js",
+  "/contact": "pages/contact.js"
 }
