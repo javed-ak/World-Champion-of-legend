@@ -45,7 +45,7 @@ export default function Venues({ page_content }) {
                             </div>
                         </div>
 
-                        <div className="venue-grid">
+                        <div className="grid md:grid-cols-2 gap-5">
                             {venues.map((venue, index) => (
                                 <VenueCard
                                     key={index}
@@ -102,14 +102,8 @@ export default function Venues({ page_content }) {
                     text-transform: uppercase;
                 }
 
-                .venue-grid {
-                    display: grid;
-                    grid-template-columns: repeat(2, 1fr);
-                    gap: 15px;
-                }
-
                 @media screen and (max-width: 768px) {
-                    .news-grid {
+                    .venue-grid {
                         grid-template-columns: repeat(1, 1fr);
                     }
                 }

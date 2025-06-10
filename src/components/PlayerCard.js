@@ -81,7 +81,7 @@ const PlayerCard = ({ name, jersey, type, metric1, metric2, image, about }) => {
           color: #ffffff;
           font-family: "Schabo";
           font-weight: 500;
-          font-size: 200px;
+          font-size: 120px;
           line-height: 10.5rem;
           letter-spacing: 0.02em;
           text-transform: uppercase;
